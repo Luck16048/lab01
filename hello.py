@@ -2,7 +2,7 @@ import datetime
 import sys
 from sys import version_info
 
-name = "Tali"
+name = "Karyna"
 
 current_date = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 version_info = sys.version
